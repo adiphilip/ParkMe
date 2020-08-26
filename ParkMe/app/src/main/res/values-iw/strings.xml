@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ParkMe</string>
+    <string name="section_format">שלום מתוך section: %1$d</string>
+    <string name="action_about">אודות</string>
+    <string name="action_history">היסטוריה</string>
+    <string name="action_home">בית</string>
+    <string name="action_map">מפה</string>
+    <string name="action_save">שמירה</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="setting_car_id">מספר הרכב</string>
+    <string name="setting_driver_name">שם הנהג</string>
+    <string name="save_save_button">שמור מקום חניה</string>
+    <string name="setting_description">תיאור</string>
+    <string name="setting_save_button">שמור הגדרות</string>
+    <string name="setting_title">הגדרות</string>
+    <string name="setting_sub_title">שנה את הגדרות החניה</string>
+    <string name="title_activity_setting">הגדרות</string>
+    <string name="title_activity_about">אודות</string>
+    <string name="setting_car_toast">הפרטים נשמרו בהצלחה</string>
+    <string name="history_car_button">מכונית</string>
+    <string name="history_driver_button">נהג</string>
+    <string name="history_title">היסטוריה</string>
+    <string name="save_toast">מיקום החניה נשמר בהצלחה</string>
+    <string name="history_delete_button">נקה היסטוריה</string>
+    <string name="history_row_carId">מספר הרכב</string>
+    <string name="history_row_car_description">תיאור</string>
+    <string name="history_row_driver_name">שם הנהג</string>
+    <string name="history_row_park_loc">מיקום</string>
+    <string name="history_row_timeStamp">שעת החניה</string>
+    <string name="about_email">myMail@mail.com</string>
+    <string name="about_my_name">השם שלי</string>
+    <string name="about_my_title">מתכנת</string>
+    <string name="about_school">שם בית ספר</string>
+    <string name="about_title">אודות</string>
+    <string name="home_title">Park Me</string>
+    <string name="map_title">מפה</string>
+    <string name="save_title">שמירת חניה</string>
+    <string name="save_update_button">עדכן מיקום</string>
+    <string name="save_your_loc">מיקומך הנוכחי</string>
+    <string name="setting_last_park">חניה אחרונה</string>
+    <string name="setting_park_name">שם החניון</string>
+    <string name="setting_time">שעת החניה</string>
+    <string name="history_sub_title">מיקומים אחרונים לפי שם הנהג או מספר הרכב</string>
+</resources>
